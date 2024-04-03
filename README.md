@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Umair
-- 👀 I’m interested in Full Stack development
-- 🌱 I’m currently Pursuing degree in  BS Computer Engineering
+- 👀 I’m interested in Full Stack Web development
+- 🌱 I’m currently Pursuing a degree in  BS Computer Engineering
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 here is my email to get in touch muhammadumair1152@gmail.com   
 
